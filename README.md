@@ -1,6 +1,6 @@
 # webappnorthwind
 ##connect server
-# nguyenngocha17ct2
+# bietdoibatga17ct2
 ## Nguyen Ngoc Ha
 ## Nguyen The Trong
 ## Nguyen Binh Nguyen
